@@ -1,0 +1,10 @@
+Blood Management System
+
+Clients:
+
+1. Patients: Can make request to hospital for blood (Automatic request for diseases like lukemia or thalassemia)
+2. Hospitals: Can read requests from patients and cross check blood records to see if blood request can be approved
+3. Blood banks: can see all requests and approve hospital requests for blood. Depending on urgency of each hospital etc. 
+4. Laboratories: can send blood to blood bank for storage
+
+Additional features: automatically send a request to hospitals a few days before a regular patient's regular blood transfusion.
